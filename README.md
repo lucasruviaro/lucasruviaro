@@ -1,25 +1,16 @@
-### Lucas Ruviaro
-#### Welcome to my GitHub. I am a brazilian Java back-end developer and I am looking for job opportunities.
-<br>
+# 💫 About Me:
+Java Developer<br>👋 Greetings! I'm a passionate Java/Spring developer specializing in microservices architecture. With a solid background in building robust and scalable applications, I excel in designing and implementing microservices that contribute to highly efficient and modular systems.<br><br>🔧 Skills<br>Languages: Java, SQL <br>Frameworks: Spring, JSF, Quarkus<br>Database: Oracle, PostgreSQL, MongoDB, ElasticSearch<br>CI/CD: Jenkins, GitHub Actions<br>Testing: JUnit, Mockito<br><br>
 
-[![Top Langs](https://github-readme-stats-chi-eight-98.vercel.app/api/top-langs/?username=lucasruviaro)](https://github.com/lucasruviaro/github-readme-stats)
-<br><br>
 
-<h3>Technologies:</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/lucasruviaro) 
 
-<div style="display:inline_block"><br/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</div>
-<br>
-<h3>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasruviaro&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-More information about me:<br> <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasruviaro/)
-<br><br><br>
+---
+[![](https://visitcount.itsvg.in/api?id=lucasruviaro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
