@@ -1,5 +1,5 @@
 ## 💫 About Me
-<br>👋 Hello there! I'm an enthusiastic Java developer with a focus on microservices architecture. Backed by a strong foundation in constructing resilient and scalable applications, my expertise lies in the adept design and implementation of microservices.<br><br>
+👋 Hello there! I'm an enthusiastic Java developer with a focus on microservices architecture. Backed by a strong foundation in constructing resilient and scalable applications, my expertise lies in the adept design and implementation of microservices.<br><br>
 
 ## 🔧 Skills
 Languages: Java, SQL <br>Frameworks: Spring, JSF, Quarkus<br>Database: Oracle, PostgreSQL, MongoDB, ElasticSearch<br>CI/CD: Jenkins, GitHub Actions<br>Testing: JUnit, Mockito<br><br>
